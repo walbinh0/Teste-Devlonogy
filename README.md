@@ -1,4 +1,4 @@
-# Crawler developed as a test for a vacancy at Devnology
+# Crawler desenvolvido como teste para uma vaga na Devnology
 
 ## Descricão
 
